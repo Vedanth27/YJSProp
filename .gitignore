@@ -1,0 +1,9 @@
+# Ignore Venv
+venv/
+
+# Ignore pycache
+__pycache__/
+
+# Ignore Images
+*.jpg
+*.png
